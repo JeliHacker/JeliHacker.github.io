@@ -1,3 +1,6 @@
 [submodule "PROJECT-WDD-FINAL-Project"]
 	path = PROJECT-WDD-FINAL-Project
 	url = git://github.com/JeliHacker/PROJECT-WDD-Final-Project.git
+[submodule "CSC160_FinalProject"]
+	path = CSC160_FinalProject
+	url = https://github.com/JeliHacker/PROJECT-WDD-Final-Project.git
