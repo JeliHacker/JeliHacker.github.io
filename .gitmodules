@@ -4,3 +4,6 @@
 [submodule "CSC160_FinalProject"]
 	path = CSC160_FinalProject
 	url = https://github.com/JeliHacker/PROJECT-WDD-Final-Project.git
+[submodule "3D-Engine-Arongil"]
+	path = 3D-Engine-Arongil
+	url = https://github.com/JeliHacker/3D-Engine-Arongil.git
