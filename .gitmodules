@@ -7,3 +7,6 @@
 [submodule "3D-Engine-Arongil"]
 	path = 3D-Engine-Arongil
 	url = https://github.com/JeliHacker/3D-Engine-Arongil.git
+[submodule "3D-Engine"]
+	path = 3D-Engine
+	url = https://github.com/JeliHacker/3D-Engine.git
