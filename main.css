@@ -17,6 +17,7 @@ body {
 
 a {
 	margin: 5;
+	padding: 5;
 	text-decoration: none;
 }
 a:hover {
