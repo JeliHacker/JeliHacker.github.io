@@ -6,28 +6,34 @@
 		<link rel="stylesheet" href="main.css">
 	</head>
 	<body>
-		<h2 class="float-left">
-			<a href="https://www.eligooch.com/">Eli Gooch</a>
-		</h2>
-    <br>
-		<h1 class="float-none text-4xl">
-			Projects
-		</h1>
-		<ul>
-			<li>
-				<a class="flex-none" href="CSC160_FinalProject/index.html">CSC 160 Final Project</a>
-			</li>
-			<li>
-				<a href="Blog/index.html">Blog</a>
-			</li>
-			<li>
-				<a href="react_blog/src/index.js">React Blog</a>
-			</li>
-			<li>
-				<a href="3D-Engine/index.html">3D Engine</a>
-			</li>
-			<li><a href="Web-API-Project/index.html">Web API</a></li>
-		</ul>
+    <div className="container mx-auto">
+      <h2 class="absolute ml-5 mt-5 float-left">
+        <a class="websiteLink" href="https://www.eligooch.com/">Eli Gooch</a>
+      </h2>
+      <br>
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <h1 class="float-none text-4xl">
+          Projects
+        </h1>
+        <ul>
+          <li>
+            <span class="link">
+              <a class="flex-none" href="CSC160_FinalProject/index.html">CSC 160 Final Project</a>
+            </span>
+          </li>
+          <li>
+            <a href="Blog/index.html">Blog</a>
+          </li>
+          <li>
+            <a href="react_blog/src/index.js">React Blog</a>
+          </li>
+          <li>
+            <a href="3D-Engine/index.html">3D Engine</a>
+          </li>
+          <li><a href="Web-API-Project/index.html">Web API</a></li>
+        </ul>
+      </div>
+    </div>
 	</body>
 
 </html>
