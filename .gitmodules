@@ -16,3 +16,6 @@
 [submodule "react_blog"]
 	path = react_blog
 	url = https://github.com/JeliHacker/react_blog.git
+[submodule "TheGameOfLife"]
+	path = TheGameOfLife
+	url = https://github.com/JeliHacker/TheGameOfLife
