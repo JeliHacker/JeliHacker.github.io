@@ -19,3 +19,6 @@
 [submodule "TheGameOfLife"]
 	path = TheGameOfLife
 	url = https://github.com/JeliHacker/TheGameOfLife
+[submodule "etrade-data"]
+	path = etrade-data
+	url = https://github.com/JeliHacker/etrade-data.git
