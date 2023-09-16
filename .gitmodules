@@ -10,9 +10,6 @@
 [submodule "3D-Engine"]
 	path = 3D-Engine
 	url = https://github.com/JeliHacker/3D-Engine.git
-[submodule "Web-API-Project"]
-	path = Web-API-Project
-	url = https://github.com/joshwest22/Web-API-Project.git
 [submodule "react_blog"]
 	path = react_blog
 	url = https://github.com/JeliHacker/react_blog.git
