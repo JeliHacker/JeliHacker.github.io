@@ -3,13 +3,20 @@
 @import url("https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 
 * {
 	text-align: center;
+  background-color: #faf3e0;
 }	
 	
 body {
-	font-family: "Helvetica";
+	font-family: "Rubik", sans-serif;
 }
 
 .websiteLink {
